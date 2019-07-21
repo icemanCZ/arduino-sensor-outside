@@ -24,8 +24,5 @@
     <ClInclude Include="__vm\.arduino-sensor-outside.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="shared.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
